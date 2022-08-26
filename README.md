@@ -1,0 +1,2 @@
+# DelegatePattern
+Swift, Delegate pattern
